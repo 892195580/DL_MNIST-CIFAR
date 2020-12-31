@@ -1,1 +1,1 @@
-put cifar-10-batches & MNIST dataset into this file.
+put cifar-10-batches & MNIST dataset into this path.
